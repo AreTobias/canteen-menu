@@ -95,7 +95,7 @@ newmail.To = ";".join(employees)
 newmail.Display()
 
 # The last call is to send the e-mail
-#newmail.Send()
+newmail.Send()
 
 
 
