@@ -1,4 +1,4 @@
-# cantinemenu
+# canteen menu
 Script that webscrapes a cafeteria website for the canteen menu
 
 
